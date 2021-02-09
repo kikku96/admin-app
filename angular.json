@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "admin-app"
+  "defaultProject": "admin-app",
+  "cli": {
+    "analytics": "eef45184-0cc9-4a84-8282-512d5517b02c"
+  }
 }
